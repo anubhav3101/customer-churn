@@ -1,0 +1,17 @@
+{
+  "name": "customer-churn",
+  "version": "1.0.0",
+  "description": "Customer churn in simple words is predicting that which customers are at high risk of leaving the company.\r If a customer is cancelling or ending subscription with a company or an organisation, it will be also considered as customer churn.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "simple-git": "^3.20.0"
+  }
+}
